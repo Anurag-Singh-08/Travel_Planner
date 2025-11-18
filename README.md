@@ -86,5 +86,3 @@ Multi-agent collaboration system
 Deep learning model for semantic matching
 
 
-
-## 🏗️ Architecture
